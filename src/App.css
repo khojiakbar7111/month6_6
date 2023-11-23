@@ -1,0 +1,78 @@
+.nav{
+    border:1px solid #dbd8d8;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    height: 40px;
+    align-items: center;
+}
+.login{
+    width: 400px;
+    background-color: #f3f3f3;
+    margin: auto;
+    margin-top: 100px;
+    border:1px solid #a7a7ab;
+    border-radius:7px;
+    box-shadow: 2px 2px 3px #e5e5e5;
+
+}
+.login_btn{
+    width:80px;
+      display:block;
+    border:none;
+    border-radius: 8px;
+    height: 30px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.login_btn:hover{
+    background-color:#228B22;
+   color: #fff;
+   transition: 0.7s;
+}
+.nav_btn{
+    width: 80px;
+    border:none;
+    border-radius:8px;
+    height: 25px;
+}
+.nav_btn:hover{
+    background-color:#228B22;
+   color: #fff;
+   transition: 0.7s;
+}
+.cay{
+    width: 300px;
+    background-color:#f7f7f7;
+    text-align: center;
+    border-radius:8px;
+    margin: auto;
+}
+.add{
+    width: 400px;
+
+    margin: auto;
+    margin-top: 150px;
+}
+.add_btn{
+    width: 80px;
+    background-color: #3CB371;
+    border:none;
+    color:#fff;
+    border-radius:8px;
+    height: 25px;
+}
+.product_btn{
+    width: 80px;
+    border:none;
+    border-radius:8px;
+    background-color:#c5c5cb;
+    height: 25px;
+    margin-bottom: 10px;
+}
+.product_btn:hover{
+    background-color:#3CB371;
+    color:#fff;
+    transition: 0.7s;
+}
